@@ -1,6 +1,8 @@
 # OSClass
 ## All you need to easily create your own classifieds website
 
+*Note: All code have been moved to [Github repository][code]*
+
 [OSClass is for classifieds][osclass] what WordPress is for publishing. It's a free
 and open script to create your advertisement or listings site. Best features: Plugins,
 themes, multi-language, CAPTCHA, dashboard, SEO friendly.
